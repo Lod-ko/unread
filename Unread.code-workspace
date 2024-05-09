@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Leap Tour/Unread"
+		},
+		{
+			"path": "../Leap Tour"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Unread"
+	}
+}
